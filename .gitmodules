@@ -1,0 +1,3 @@
+[submodule "bibi"]
+	path = bibi
+	url = https://github.com/satorumurmur/bibi.git

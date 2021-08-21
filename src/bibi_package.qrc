@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="bibi/and/jo.js">../bibi/__dist/bibi/and/jo.js</file>
+        <file alias="bibi/extensions/analytics.js">../bibi/__dist/bibi/extensions/analytics.js</file>
+        <file alias="bibi/extensions/epubcfi.js">../bibi/__dist/bibi/extensions/epubcfi.js</file>
+        <file alias="bibi/extensions/extractor/at-once.js">../bibi/__dist/bibi/extensions/extractor/at-once.js</file>
+        <file alias="bibi/extensions/extractor/on-the-fly.bibi-zip-loader.worker.alt.js">../bibi/__dist/bibi/extensions/extractor/on-the-fly.bibi-zip-loader.worker.alt.js</file>
+        <file alias="bibi/extensions/extractor/on-the-fly.bibi-zip-loader.worker.js">../bibi/__dist/bibi/extensions/extractor/on-the-fly.bibi-zip-loader.worker.js</file>
+        <file alias="bibi/extensions/extractor/on-the-fly.js">../bibi/__dist/bibi/extensions/extractor/on-the-fly.js</file>
+        <file alias="bibi/extensions/sanitizer.js">../bibi/__dist/bibi/extensions/sanitizer.js</file>
+        <file alias="bibi/extensions/unaccessibilizer.js">../bibi/__dist/bibi/extensions/unaccessibilizer.js</file>
+        <file alias="bibi/extensions/zine.js">../bibi/__dist/bibi/extensions/zine.js</file>
+        <file alias="bibi/index.html">../bibi/__dist/bibi/index.html</file>
+        <file alias="bibi/presets/default.js">../bibi/__dist/bibi/presets/default.js</file>
+        <file alias="bibi/presets/README.md">../bibi/__dist/bibi/presets/README.md</file>
+        <file alias="bibi/resources/scripts/bibi.js">../bibi/__dist/bibi/resources/scripts/bibi.js</file>
+        <file alias="bibi/resources/scripts/polyfills/bundle.js">../bibi/__dist/bibi/resources/scripts/polyfills/bundle.js</file>
+        <file alias="bibi/resources/scripts/polyfills/encoding.js">../bibi/__dist/bibi/resources/scripts/polyfills/encoding.js</file>
+        <file alias="bibi/resources/scripts/polyfills/intersection-observer.js">../bibi/__dist/bibi/resources/scripts/polyfills/intersection-observer.js</file>
+        <file alias="bibi/resources/styles/bibi.css">../bibi/__dist/bibi/resources/styles/bibi.css</file>
+        <file alias="bibi/resources/styles/fonts/MaterialIcons-Regular.eot">../bibi/__dist/bibi/resources/styles/fonts/MaterialIcons-Regular.eot</file>
+        <file alias="bibi/resources/styles/fonts/MaterialIcons-Regular.ttf">../bibi/__dist/bibi/resources/styles/fonts/MaterialIcons-Regular.ttf</file>
+        <file alias="bibi/resources/styles/fonts/MaterialIcons-Regular.woff">../bibi/__dist/bibi/resources/styles/fonts/MaterialIcons-Regular.woff</file>
+        <file alias="bibi/resources/styles/fonts/MaterialIcons-Regular.woff2">../bibi/__dist/bibi/resources/styles/fonts/MaterialIcons-Regular.woff2</file>
+        <file alias="bibi/wardrobe/everyday/bibi.dress.css">../bibi/__dist/bibi/wardrobe/everyday/bibi.dress.css</file>
+    </qresource>
+</RCC>
